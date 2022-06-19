@@ -1,6 +1,16 @@
-# ChuckIO_0.1
+# chuck_norris_io
 
-In this app there is only one window with the button that makes the joke change
+A new Flutter project.
 
-In this window there is a pic of Chuck and his salute words, on the centre there is a joke displaying
-in the right bottom corner there is a like button, that changes the joke
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
